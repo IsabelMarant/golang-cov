@@ -1,0 +1,25 @@
+mode: count
+bfe_modules/mod_logid/logid_linux.go:200.39,209.2 6 1005
+bfe_modules/mod_logid/logid_linux.go:212.40,214.55 2 1003
+bfe_modules/mod_logid/logid_linux.go:217.2,217.45 1 1003
+bfe_modules/mod_logid/logid_linux.go:214.55,216.3 1 0
+bfe_modules/mod_logid/mod_logid.go:44.36,53.2 6 2
+bfe_modules/mod_logid/mod_logid.go:55.37,57.2 1 1
+bfe_modules/mod_logid/mod_logid.go:59.53,68.2 2 1
+bfe_modules/mod_logid/mod_logid.go:71.45,74.19 2 0
+bfe_modules/mod_logid/mod_logid.go:78.5,79.19 2 0
+bfe_modules/mod_logid/mod_logid.go:84.5,85.19 2 0
+bfe_modules/mod_logid/mod_logid.go:89.5,89.15 1 0
+bfe_modules/mod_logid/mod_logid.go:74.19,76.6 1 0
+bfe_modules/mod_logid/mod_logid.go:79.19,81.6 1 0
+bfe_modules/mod_logid/mod_logid.go:85.19,87.6 1 0
+bfe_modules/mod_logid/mod_logid.go:93.88,95.30 1 3
+bfe_modules/mod_logid/mod_logid.go:125.5,126.44 2 1
+bfe_modules/mod_logid/mod_logid.go:95.30,100.27 2 2
+bfe_modules/mod_logid/mod_logid.go:100.27,102.27 2 1
+bfe_modules/mod_logid/mod_logid.go:102.27,105.14 2 1
+bfe_modules/mod_logid/mod_logid.go:105.15,112.14 3 0
+bfe_modules/mod_logid/mod_logid.go:113.11,120.10 3 1
+bfe_modules/mod_logid/mod_logid.go:130.87,135.2 3 0
+bfe_modules/mod_logid/mod_logid.go:138.53,148.2 8 1002
+bfe_modules/mod_logid/mod_logid.go:151.54,154.2 2 1

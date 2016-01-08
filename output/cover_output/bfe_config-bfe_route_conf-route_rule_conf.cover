@@ -1,0 +1,26 @@
+mode: count
+bfe_config/bfe_route_conf/route_rule_conf/route_table_load.go:58.65,63.29 2 1
+bfe_config/bfe_route_conf/route_rule_conf/route_table_load.go:67.2,67.33 1 1
+bfe_config/bfe_route_conf/route_rule_conf/route_table_load.go:71.2,73.56 2 1
+bfe_config/bfe_route_conf/route_rule_conf/route_table_load.go:95.2,95.18 1 1
+bfe_config/bfe_route_conf/route_rule_conf/route_table_load.go:63.29,65.3 1 0
+bfe_config/bfe_route_conf/route_rule_conf/route_table_load.go:67.33,69.3 1 0
+bfe_config/bfe_route_conf/route_rule_conf/route_table_load.go:73.56,75.38 2 40
+bfe_config/bfe_route_conf/route_rule_conf/route_table_load.go:92.3,92.32 1 40
+bfe_config/bfe_route_conf/route_rule_conf/route_table_load.go:75.38,76.35 1 94
+bfe_config/bfe_route_conf/route_rule_conf/route_table_load.go:80.4,80.28 1 94
+bfe_config/bfe_route_conf/route_rule_conf/route_table_load.go:84.4,86.18 3 94
+bfe_config/bfe_route_conf/route_rule_conf/route_table_load.go:89.4,89.24 1 94
+bfe_config/bfe_route_conf/route_rule_conf/route_table_load.go:76.35,78.5 1 0
+bfe_config/bfe_route_conf/route_rule_conf/route_table_load.go:80.28,82.5 1 0
+bfe_config/bfe_route_conf/route_rule_conf/route_table_load.go:86.18,88.5 1 0
+bfe_config/bfe_route_conf/route_rule_conf/route_table_load.go:98.75,103.16 3 1
+bfe_config/bfe_route_conf/route_rule_conf/route_table_load.go:106.2,110.50 3 1
+bfe_config/bfe_route_conf/route_rule_conf/route_table_load.go:114.2,115.16 2 1
+bfe_config/bfe_route_conf/route_rule_conf/route_table_load.go:119.2,121.26 2 1
+bfe_config/bfe_route_conf/route_rule_conf/route_table_load.go:103.16,105.3 1 0
+bfe_config/bfe_route_conf/route_rule_conf/route_table_load.go:110.50,112.3 1 0
+bfe_config/bfe_route_conf/route_rule_conf/route_table_load.go:115.16,117.3 1 0
+bfe_config/bfe_route_conf/route_rule_conf/route_table_load.go:129.62,131.55 2 1
+bfe_config/bfe_route_conf/route_rule_conf/route_table_load.go:135.2,135.19 1 1
+bfe_config/bfe_route_conf/route_rule_conf/route_table_load.go:131.55,133.3 1 0

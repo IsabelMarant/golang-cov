@@ -1,0 +1,15 @@
+mode: count
+bfe_config/bfe_tls_conf/session_ticket_key_conf/session_ticket_key_conf.go:35.65,36.31 1 2
+bfe_config/bfe_tls_conf/session_ticket_key_conf/session_ticket_key_conf.go:40.5,41.19 2 2
+bfe_config/bfe_tls_conf/session_ticket_key_conf/session_ticket_key_conf.go:44.5,44.23 1 1
+bfe_config/bfe_tls_conf/session_ticket_key_conf/session_ticket_key_conf.go:48.5,48.15 1 1
+bfe_config/bfe_tls_conf/session_ticket_key_conf/session_ticket_key_conf.go:36.31,38.6 1 0
+bfe_config/bfe_tls_conf/session_ticket_key_conf/session_ticket_key_conf.go:41.19,43.6 1 1
+bfe_config/bfe_tls_conf/session_ticket_key_conf/session_ticket_key_conf.go:44.23,46.6 1 0
+bfe_config/bfe_tls_conf/session_ticket_key_conf/session_ticket_key_conf.go:57.78,62.20 3 3
+bfe_config/bfe_tls_conf/session_ticket_key_conf/session_ticket_key_conf.go:65.5,70.20 4 2
+bfe_config/bfe_tls_conf/session_ticket_key_conf/session_ticket_key_conf.go:75.5,76.20 2 2
+bfe_config/bfe_tls_conf/session_ticket_key_conf/session_ticket_key_conf.go:80.5,80.23 1 1
+bfe_config/bfe_tls_conf/session_ticket_key_conf/session_ticket_key_conf.go:62.20,64.6 1 1
+bfe_config/bfe_tls_conf/session_ticket_key_conf/session_ticket_key_conf.go:70.20,72.6 1 0
+bfe_config/bfe_tls_conf/session_ticket_key_conf/session_ticket_key_conf.go:76.20,78.6 1 1
